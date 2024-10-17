@@ -30,7 +30,7 @@
   </game>
   <game>
     <name>C&amp;C Gold</name>
-    <path>R:\Games\EA Games\Command & Conquer The First Decade\Command & Conquer(tm)\savegame.*</path>
+    <path>R:\Games\EA Games\Command &amp; Conquer The First Decade\Command &amp; Conquer(tm)\savegame.*</path>
   </game>
   <game>
     <name>Call of Duty - Black Ops</name>
@@ -142,11 +142,11 @@
   </game>
   <game>
     <name>Red Alert 2</name>
-	<path>R:\Games\EA Games\Command & Conquer The First Decade\Command & Conquer Red Alert(tm) II\RA2\*.sav</path>
+	<path>R:\Games\EA Games\Command &amp; Conquer The First Decade\Command &amp; Conquer Red Alert(tm) II\RA2\*.sav</path>
   </game>
   <game>
     <name>Red Alert</name>
-	<path>R:\Games\EA Games\Command & Conquer The First Decade\Command & Conquer Red Alert(tm)\savegame.*</path>
+	<path>R:\Games\EA Games\Command &amp; Conquer The First Decade\Command &amp; Conquer Red Alert(tm)\savegame.*</path>
   </game>
   <game>
     <name>Red Dead Redemption 2</name>
@@ -154,7 +154,7 @@
   </game>
   <game>
     <name>Renegade</name>
-	<path>R:\Games\EA Games\Command & Conquer The First Decade\Command & Conquer Renegade(tm)\Renegade\Data\save\</path>
+	<path>R:\Games\EA Games\Command &amp; Conquer The First Decade\Command &amp; Conquer Renegade(tm)\Renegade\Data\save\</path>
   </game>
   <game>
     <name>Rise of the Tomb Raider</name>
@@ -210,6 +210,6 @@
   </game>
   <game>
     <name>Tiberian Sun</name>
-	<path>R:\Games\EA Games\Command & Conquer The First Decade\Command & Conquer(tm) Tiberian Sun(tm)\SUN\*.sav</path>
+	<path>R:\Games\EA Games\Command &amp; Conquer The First Decade\Command &amp; Conquer(tm) Tiberian Sun(tm)\SUN\*.sav</path>
   </game>
 </games>
